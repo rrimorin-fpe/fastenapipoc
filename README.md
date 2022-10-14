@@ -1,0 +1,1 @@
+Fastendpoint -> minimal api
