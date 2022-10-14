@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lWPKMKEx6MPHN3v9zsmjFPqTTmurRsgx+oTMyssbcpRR5Gx97ZeFnsTmCa7c8socFUvhHjM1c6ByMeaIW88sQ==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\fastenapipoc\\fastenapipoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrimorin\\.nuget\\packages\\fastendpoints\\5.2.0\\fastendpoints.5.2.0.nupkg.sha512",
+    "C:\\Users\\rrimorin\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
